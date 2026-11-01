@@ -24,7 +24,6 @@
 | **Result** | Transfer learning lifts hold-out accuracy from **57.22% to 79.35% (+22.13 points)** and macro F1 from 0.593 to **0.798** |
 | **Honest caveat** | The 20% hold-out set was also used for early stopping and checkpoint selection, so these numbers are optimistic (details below) |
 
-> University coursework (ITS69204 Computer Vision and NLP, Taylor's University; module grade A), individual assignment. I'm a third-year CS student and still learning; feedback is welcome.
 
 ## The problem
 
